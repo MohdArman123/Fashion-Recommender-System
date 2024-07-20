@@ -1,4 +1,4 @@
-# Fashion Recommendation Chat
+# Fashion Recommendation Chatbot
 
 Fashion Recommendation Chat is a web application that provides fashion recommendations based on user preferences. It allows users to input their gender and preferences, and then displays outfit recommendations for various occasions.
 
